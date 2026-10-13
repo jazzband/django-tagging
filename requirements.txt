@@ -24,5 +24,5 @@ PyYAML==5.3
 requests==2.23.0
 six==1.14.0
 sqlparse==0.3.1
-urllib3==1.25.8
+urllib3==2.8.0
 zc.recipe.egg==6.0.0
