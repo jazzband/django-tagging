@@ -1,7 +1,7 @@
 asgiref==3.12.1
 blessings==1.7
 buildout-versions-checker==1.10.0
-certifi==2019.11.28
+certifi==2026.10.19
 chardet==7.6.0
 configparser==7.2.0
 django==5.2.18
