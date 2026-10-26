@@ -20,6 +20,6 @@ pytz==2019.3
 PyYAML==5.3
 requests==2.23.0
 six==1.17.0
-sqlparse==0.3.1
+sqlparse==0.6.0
 urllib3==1.25.8
 zc.recipe.egg==6.0.0
